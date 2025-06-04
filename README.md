@@ -23,7 +23,7 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaCar&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaCar&layout=compact&theme=github_dark" height="150"/>
 </p>
 

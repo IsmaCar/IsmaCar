@@ -29,7 +29,7 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Contacta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismael-carballo-martin-41601a220/)
 - 📧 Gmail: carballomartinismael@gmail.com

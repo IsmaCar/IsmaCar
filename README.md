@@ -1,7 +1,7 @@
 # 👋 Hola, soy Ismael
 
-¡Bienvenido a mi perfil! Soy un desarrollador en constante aprendizaje. Me gusta construir proyectos, resolver problemas y seguir creciendo como profesional en el mundo del desarrollo.
-
+¡Bienvenido a mi perfil!
+En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi camino como desarrollador web.
 ---
 
 ## 🛠 Tecnologías que uso

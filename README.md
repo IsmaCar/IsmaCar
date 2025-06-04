@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ismael
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en constante aprendizaje. Me gusta construir proyectos, resolver problemas con código y seguir creciendo como profesional en el mundo del desarrollo.
+¡Bienvenido a mi perfil! Soy un desarrollador en constante aprendizaje. Me gusta construir proyectos, resolver problemas y seguir creciendo como profesional en el mundo del desarrollo.
 
 ---
 

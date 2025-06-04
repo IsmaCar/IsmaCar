@@ -29,14 +29,6 @@
 
 ---
 
-## 👁️ Contador de visitas
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuario&color=blue" alt="Contador de visitas"/>
-</p>
-
----
-
 ## 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismael-carballo-martin-41601a220/)

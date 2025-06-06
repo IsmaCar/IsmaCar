@@ -6,7 +6,6 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 
 ## 🛠 Tecnologías que uso
 
-<p align="left">
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
 	<g fill="none">
 		<rect width="256" height="256" fill="#f0db4f" rx="60" />
@@ -14,7 +13,6 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 	</g>
 </svg>
   <!-- Agrega o quita tecnologías según corresponda -->
-</p>
 
 ---
 

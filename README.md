@@ -4,7 +4,7 @@
 En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi camino como desarrollador web.
 ---
 
-## 🛠 Tecnologías que uso
+## 🪛 Lenguajes y frameworks qur utilizo
 <p align="left">
   <!-- PHP -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
@@ -21,11 +21,12 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
 
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+## 🛠 Herramientas para crear las aplicaciones que utilizo
+<p align="left">
+<!-- GitHub Copilot (usando Shields.io) -->
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
 
 <!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
@@ -36,14 +37,12 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 <!-- Postman -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 
-<!-- GitHub Copilot (usando Shields.io) -->
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 
-
-  <!-- Agrega o quita tecnologías según corresponda -->
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
-
-  <!-- Agrega o quita tecnologías según corresponda -->
 
 ---
 

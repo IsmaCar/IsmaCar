@@ -47,7 +47,7 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 ---
 
 ## 📌 Proyectos destacados
-### 🛠️ Nombre del Proyecto 1
+### 🛠️ Memento
 Esta aplicación ha sido desarrollada para facilitar la gestión de invitaciones a eventos sociales. Los usuarios pueden crear y administrar eventos, subir fotos de los eventos a los que asisten, y guardar sus imágenes favoritas en un álbum personal.
 
 Además, cuenta con un sistema social que permite agregar o eliminar amigos, así como enviar invitaciones a eventos. Todas las solicitudes de amistad e invitaciones se gestionan a través de un sistema de notificaciones integrado, lo que mejora significativamente la experiencia de usuario.
@@ -63,7 +63,7 @@ Además, cuenta con un sistema social que permite agregar o eliminar amigos, as�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
-🔗 [Memento](https://github.com/IsmaCar/Eventos-App) 
+🔗 [Link al repositorio](https://github.com/IsmaCar/Eventos-App) 
 ---
 
 ## 📊 Estadísticas

@@ -48,22 +48,22 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 
 ## 📌 Proyectos destacados
 ### 🛠️ Nombre del Proyecto 1
-Descripción breve del proyecto: qué hace, para qué sirve o qué tecnologías usa.
+Esta aplicación ha sido desarrollada para facilitar la gestión de invitaciones a eventos sociales. Los usuarios pueden crear y administrar eventos, subir fotos de los eventos a los que asisten, y guardar sus imágenes favoritas en un álbum personal.
 
-**Tecnologías:**  
+Además, cuenta con un sistema social que permite agregar o eliminar amigos, así como enviar invitaciones a eventos. Todas las solicitudes de amistad e invitaciones se gestionan a través de un sistema de notificaciones integrado, lo que mejora significativamente la experiencia de usuario.
+
+**Tecnologías:**
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" />
-<!-- Postman -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
-<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<!-- MySQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
-🔗 [Repositorio](https://github.com/IsmaCar/Eventos-App) 
+🔗 [Memento](https://github.com/IsmaCar/Eventos-App) 
 ---
 
 ## 📊 Estadísticas

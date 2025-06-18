@@ -10,7 +10,7 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
 
 <!-- Symfony -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-white.svg" width="40" />
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />

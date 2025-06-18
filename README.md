@@ -4,7 +4,7 @@
 En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi camino como desarrollador web.
 ---
 
-## 🪛 Lenguajes y frameworks qur utilizo
+## 🪛 Lenguajes y frameworks que utilizo
 <p align="left">
   <!-- PHP -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
@@ -23,7 +23,7 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 
 </p>
 
-## 🛠 Herramientas para crear las aplicaciones que utilizo
+## 🛠 Herramientas que utilizo para crear las aplicaciones 
 <p align="left">
 <!-- GitHub Copilot (usando Shields.io) -->
 <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
@@ -47,7 +47,23 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 ---
 
 ## 📌 Proyectos destacados
+### 🛠️ Nombre del Proyecto 1
+Descripción breve del proyecto: qué hace, para qué sirve o qué tecnologías usa.
 
+**Tecnologías:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" />
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+🔗 [Repositorio](https://github.com/IsmaCar/Eventos-App) 
 ---
 
 ## 📊 Estadísticas

@@ -130,7 +130,9 @@ Además, cuenta con un sistema social que permite agregar o eliminar amigos, as�
 
 🔗 [Link al repositorio](https://github.com/IsmaCar/Eventos-App) 
 
-###📚 Librería Virtual (⚙️ En proceso)
+
+
+### 📚 Librería Virtual (⚙️ En proceso)
 
 Plataforma que actúa como una biblioteca personal y social, permitiendo a los usuarios interactuar con un catálogo de libros (gracias a la API de Open Library).
 

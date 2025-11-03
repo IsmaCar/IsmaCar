@@ -96,7 +96,7 @@ En este espacio iré mostrando todo lo que vaya aprendiendo y construyendo en mi
 
 ## 📌 Proyectos destacados
 
-### 🛠️ Memento
+### 📸 Memento
 
 Esta aplicación ha sido desarrollada para facilitar la gestión de invitaciones a eventos sociales. Los usuarios pueden crear y administrar eventos, subir fotos de los eventos a los que asisten, y guardar sus imágenes favoritas en un álbum personal.
 

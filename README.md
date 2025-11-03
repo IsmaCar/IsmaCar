@@ -130,6 +130,26 @@ Además, cuenta con un sistema social que permite agregar o eliminar amigos, as�
 
 🔗 [Link al repositorio](https://github.com/IsmaCar/Eventos-App) 
 
+📚 Librería Virtual (⚙️ En proceso)
+
+Plataforma que actúa como una biblioteca personal y social, permitiendo a los usuarios interactuar con un catálogo de libros (gracias a la API de Open Library).
+
+El sistema permite a los usuarios buscar, consultar y guardar libros como favoritos en su perfil, así como compartir sus valoraciones mediante la publicación de opiniones sobre los libros leídos.
+
+Tecnologías:
+
+<!-- Iconos específicos del proyecto Librería Virtual -->
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Vitest/Testing" width="40" />
+</p>
+🔗 [link al repositorio](https://github.com/IsmaCar/virtual-library-app) 
+
 ---
 
 
